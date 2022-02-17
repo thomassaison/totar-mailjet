@@ -1,0 +1,1 @@
+{"version":3,"file":"mailjet.module.d.ts","sourceRoot":"","sources":["../src/mailjet.module.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAU,MAAM,gBAAgB,CAAC;AACvD,OAAO,EAAE,mBAAmB,EAAE,MAAM,gCAAgC,CAAC;AAIrE,qBACa,aAAa;IACxB,MAAM,CAAC,OAAO,CAAC,mBAAmB,EAAE,mBAAmB,GAAG,aAAa;CA2BxE"}
